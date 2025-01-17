@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-17T02:07:23.421Z
-# Size: 112961
+# Last Updated: 2025-01-17T17:24:17.894Z
+# Size: 112984
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5753,6 +5753,7 @@ DOMAIN-SUFFIX,ctrdwm.com
 DOMAIN-SUFFIX,ctrhub.com
 DOMAIN-SUFFIX,ctrtrk.com
 DOMAIN-SUFFIX,ctsdwm.com
+DOMAIN-SUFFIX,ctwmcd.com
 DOMAIN-SUFFIX,ctxtfl.com
 DOMAIN-SUFFIX,cukuix.com
 DOMAIN-SUFFIX,cuteab.com
@@ -5850,6 +5851,8 @@ DOMAIN-SUFFIX,ecrwqu.com
 DOMAIN-SUFFIX,edgbas.com
 DOMAIN-SUFFIX,edioca.com
 DOMAIN-SUFFIX,edlilu.com
+DOMAIN-SUFFIX,edttwm.com
+DOMAIN-SUFFIX,edwmpt.com
 DOMAIN-SUFFIX,eggyey.com
 DOMAIN-SUFFIX,ehmqlr.com
 DOMAIN-SUFFIX,eht116.com
@@ -6527,6 +6530,7 @@ DOMAIN-SUFFIX,prplad.com
 DOMAIN-SUFFIX,prpops.com
 DOMAIN-SUFFIX,prtawe.com
 DOMAIN-SUFFIX,prtord.com
+DOMAIN-SUFFIX,psedwm.com
 DOMAIN-SUFFIX,pshtop.com
 DOMAIN-SUFFIX,pshtrk.com
 DOMAIN-SUFFIX,psma01.com
@@ -7009,11 +7013,13 @@ DOMAIN-SUFFIX,winpbn.com
 DOMAIN-SUFFIX,wizaly.com
 DOMAIN-SUFFIX,wkuave.com
 DOMAIN-SUFFIX,wlbann.com
+DOMAIN-SUFFIX,wmcdct.com
 DOMAIN-SUFFIX,wmcdpt.com
 DOMAIN-SUFFIX,wmober.com
 DOMAIN-SUFFIX,wmpset.com
 DOMAIN-SUFFIX,wmptcd.com
 DOMAIN-SUFFIX,wmpted.com
+DOMAIN-SUFFIX,wmptpr.com
 DOMAIN-SUFFIX,wmpuem.com
 DOMAIN-SUFFIX,wmtten.com
 DOMAIN-SUFFIX,wmzona.com
@@ -11138,6 +11144,7 @@ DOMAIN-SUFFIX,phastoag.com
 DOMAIN-SUFFIX,phauloap.com
 DOMAIN-SUFFIX,phee1oci.com
 DOMAIN-SUFFIX,pheersie.com
+DOMAIN-SUFFIX,pheetuth.com
 DOMAIN-SUFFIX,pheftoud.com
 DOMAIN-SUFFIX,pheniter.com
 DOMAIN-SUFFIX,pheptoam.com
@@ -13032,6 +13039,7 @@ DOMAIN-SUFFIX,flcounter.com
 DOMAIN-SUFFIX,fleenaive.com
 DOMAIN-SUFFIX,fleshcash.com
 DOMAIN-SUFFIX,flexlinks.com
+DOMAIN-SUFFIX,flippback.com
 DOMAIN-SUFFIX,flixtrial.com
 DOMAIN-SUFFIX,fnlojkpbe.com
 DOMAIN-SUFFIX,foambench.com
@@ -17820,6 +17828,7 @@ DOMAIN-SUFFIX,ultravalid.com
 DOMAIN-SUFFIX,ulyvjty4rd.com
 DOMAIN-SUFFIX,umtchdhkrx.com
 DOMAIN-SUFFIX,unablehope.com
+DOMAIN-SUFFIX,unactkiosk.com
 DOMAIN-SUFFIX,unasonoric.com
 DOMAIN-SUFFIX,uncastnork.com
 DOMAIN-SUFFIX,uncleffaan.com
@@ -19989,6 +19998,7 @@ DOMAIN-SUFFIX,scarymarine.com
 DOMAIN-SUFFIX,scenicdrops.com
 DOMAIN-SUFFIX,scfhspacial.com
 DOMAIN-SUFFIX,scootcomely.com
+DOMAIN-SUFFIX,scopingrile.com
 DOMAIN-SUFFIX,scrapesleep.com
 DOMAIN-SUFFIX,scratchsofa.com
 DOMAIN-SUFFIX,scribbleson.com
@@ -26495,6 +26505,7 @@ DOMAIN-SUFFIX,interestededit.com
 DOMAIN-SUFFIX,intothespirits.com
 DOMAIN-SUFFIX,intrapromotion.com
 DOMAIN-SUFFIX,inurneddoggish.com
+DOMAIN-SUFFIX,inventsloosely.com
 DOMAIN-SUFFIX,investigatepin.com
 DOMAIN-SUFFIX,ioniserpinones.com
 DOMAIN-SUFFIX,iphone7pluswin.com
@@ -27407,6 +27418,7 @@ DOMAIN-SUFFIX,vpbank-vaytien.com
 DOMAIN-SUFFIX,vyxanrtgkrbsbl.com
 DOMAIN-SUFFIX,wafflesquaking.com
 DOMAIN-SUFFIX,walmartshoping.com
+DOMAIN-SUFFIX,waltzersurvise.com
 DOMAIN-SUFFIX,warfarerewrite.com
 DOMAIN-SUFFIX,warindifferent.com
 DOMAIN-SUFFIX,warlockstudent.com
@@ -35874,8 +35886,10 @@ DOMAIN-SUFFIX,0vc.fun
 DOMAIN-SUFFIX,2za.fun
 DOMAIN-SUFFIX,3uo.fun
 DOMAIN-SUFFIX,4gu.fun
+DOMAIN-SUFFIX,4ve.fun
 DOMAIN-SUFFIX,4wm.fun
 DOMAIN-SUFFIX,7zb.fun
+DOMAIN-SUFFIX,8u0.fun
 DOMAIN-SUFFIX,bc4.fun
 DOMAIN-SUFFIX,e7h.fun
 DOMAIN-SUFFIX,ed2.fun
@@ -39164,6 +39178,7 @@ DOMAIN-SUFFIX,gaukeezeewha.net
 DOMAIN-SUFFIX,gay-hotvideo.net
 DOMAIN-SUFFIX,geewedurisou.net
 DOMAIN-SUFFIX,gichaisseexy.net
+DOMAIN-SUFFIX,glaicmauxoah.net
 DOMAIN-SUFFIX,glaisseexoar.net
 DOMAIN-SUFFIX,glouvugnirsy.net
 DOMAIN-SUFFIX,glowhoatooji.net
@@ -43457,6 +43472,7 @@ DOMAIN-SUFFIX,33862684.xyz
 DOMAIN-SUFFIX,34475780.xyz
 DOMAIN-SUFFIX,36833185.xyz
 DOMAIN-SUFFIX,37066957.xyz
+DOMAIN-SUFFIX,38167473.xyz
 DOMAIN-SUFFIX,38835571.xyz
 DOMAIN-SUFFIX,38941752.xyz
 DOMAIN-SUFFIX,3a55f02d.xyz
@@ -43469,6 +43485,7 @@ DOMAIN-SUFFIX,45496fee.xyz
 DOMAIN-SUFFIX,4602306b.xyz
 DOMAIN-SUFFIX,46276192.xyz
 DOMAIN-SUFFIX,466c4d0f.xyz
+DOMAIN-SUFFIX,47235645.xyz
 DOMAIN-SUFFIX,47296536.xyz
 DOMAIN-SUFFIX,47415889.xyz
 DOMAIN-SUFFIX,48304789.xyz
@@ -44543,6 +44560,7 @@ DOMAIN-SUFFIX,gbpkmltxpcsj.xyz
 DOMAIN-SUFFIX,ghnvfncbleiu.xyz
 DOMAIN-SUFFIX,gkdafpdmiwwd.xyz
 DOMAIN-SUFFIX,gledroupsens.xyz
+DOMAIN-SUFFIX,gloghauzolso.xyz
 DOMAIN-SUFFIX,glomtipagrou.xyz
 DOMAIN-SUFFIX,glouftarussa.xyz
 DOMAIN-SUFFIX,glounugeepse.xyz
@@ -46858,7 +46876,9 @@ DOMAIN-SUFFIX,fibrosecormus.shop
 DOMAIN-SUFFIX,foiblespesage.shop
 DOMAIN-SUFFIX,gapperlambale.shop
 DOMAIN-SUFFIX,glaziergagged.shop
+DOMAIN-SUFFIX,gunlockpepped.shop
 DOMAIN-SUFFIX,hdbankfinance.shop
+DOMAIN-SUFFIX,ionogenbakutu.shop
 DOMAIN-SUFFIX,jicamasosteal.shop
 DOMAIN-SUFFIX,kamahiunvisor.shop
 DOMAIN-SUFFIX,karaiterather.shop
@@ -65223,6 +65243,7 @@ DOMAIN-SUFFIX,a8clk.videocash.tv
 DOMAIN-SUFFIX,ad.animeitaly.tv
 DOMAIN-SUFFIX,events.brightline.tv
 DOMAIN-SUFFIX,services.brightline.tv
+DOMAIN-SUFFIX,cdn-media.brightline.tv
 DOMAIN-SUFFIX,adrouter-charter-vod.cadenttech.tv
 DOMAIN-SUFFIX,o.hotsextube.tv
 DOMAIN-SUFFIX,log.internetat.tv
@@ -96029,7 +96050,6 @@ DOMAIN-SUFFIX,ploy.batmobi.net
 DOMAIN-SUFFIX,stats.behance.net
 DOMAIN-SUFFIX,go.betobet.net
 DOMAIN-SUFFIX,app.bidhead.net
-DOMAIN-SUFFIX,grpc.biliapi.net
 DOMAIN-SUFFIX,8cc5ff581a88.bitsngo.net
 DOMAIN-SUFFIX,marketing.bluebox.net
 DOMAIN-SUFFIX,a8cv.cellbic.net
@@ -100255,6 +100275,7 @@ DOMAIN-SUFFIX,link-test.ianacare.team
 DOMAIN-SUFFIX,stats.seotraff.team
 DOMAIN-SUFFIX,affiliate.studio51.team
 DOMAIN-SUFFIX,stats.cloudflex.team
+DOMAIN-SUFFIX,vtrk.dv.tech
 DOMAIN-SUFFIX,natvxgkbb.9pz1.tech
 DOMAIN-SUFFIX,link.nate.tech
 DOMAIN-SUFFIX,cdn.xpln.tech
@@ -109820,6 +109841,7 @@ DOMAIN-SUFFIX,25ix8gm8ien.sandbox.panprices.com
 DOMAIN-SUFFIX,tr.news.parisinfo.com
 DOMAIN-SUFFIX,data.email.partycity.com
 DOMAIN-SUFFIX,a8.jp.peacebird.com
+DOMAIN-SUFFIX,mt.ssai.peacocktv.com
 DOMAIN-SUFFIX,images.link.pentoncem.com
 DOMAIN-SUFFIX,images.link.pentonlsm.com
 DOMAIN-SUFFIX,data.mails.pluspagos.com
@@ -112667,6 +112689,7 @@ DOMAIN-SUFFIX,api.mobula.ds.duapps.com
 DOMAIN-SUFFIX,api.mobula.sdk.duapps.com
 DOMAIN-SUFFIX,rts.mobula.sdk.duapps.com
 DOMAIN-SUFFIX,sanalytics.adobe.tp.gskpro.com
+DOMAIN-SUFFIX,eventcollector.mcf-prod.a.intuit.com
 DOMAIN-SUFFIX,data.mkt.qb.intuit.com
 DOMAIN-SUFFIX,data.trn.qb.intuit.com
 DOMAIN-SUFFIX,data.info.qb.intuit.com
@@ -112989,8 +113012,8 @@ DOMAIN-SUFFIX,trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
 ################## EOF ##################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-09T02:36:43.826Z
-# Size: 171
+# Last Updated: 2025-01-17T17:24:18.089Z
+# Size: 173
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -113136,6 +113159,8 @@ DOMAIN-KEYWORD,-tracker.biliapi.net
 #DOMAIN-WILDCARD,*ad.ixigua.com
 #DOMAIN-WILDCARD,tracking.*.miui.com
 #DOMAIN-WILDCARD,*.tracking.*.miui.com
+.juejin.im
+.juejin.cn
 #URL-REGEX,/\d+/resolve
 #URL-REGEX,/\d+/sign_d
 IP-CIDR,39.97.128.148/32,no-resolve
