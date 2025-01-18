@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-17T17:24:17.894Z
-# Size: 112984
+# Last Updated: 2025-01-17T19:10:20.832Z
+# Size: 112987
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -410,6 +410,7 @@ DOMAIN-SUFFIX,inmobi.cn
 DOMAIN-SUFFIX,ixstng.cn
 DOMAIN-SUFFIX,izqogb.cn
 DOMAIN-SUFFIX,jgygtv.cn
+DOMAIN-SUFFIX,juejin.cn
 DOMAIN-SUFFIX,jyuskb.cn
 DOMAIN-SUFFIX,kdqlbm.cn
 DOMAIN-SUFFIX,keyrun.cn
@@ -1680,6 +1681,7 @@ DOMAIN-SUFFIX,props.id
 DOMAIN-SUFFIX,flashb.id
 DOMAIN-SUFFIX,rutwdj.id
 DOMAIN-SUFFIX,lead.im
+DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,4736.in
 DOMAIN-SUFFIX,buyt.in
 DOMAIN-SUFFIX,cltx.in
@@ -9633,6 +9635,7 @@ DOMAIN-SUFFIX,afficent.com
 DOMAIN-SUFFIX,affilaxy.com
 DOMAIN-SUFFIX,affilist.com
 DOMAIN-SUFFIX,affilizr.com
+DOMAIN-SUFFIX,affilizz.com
 DOMAIN-SUFFIX,affinity.com
 DOMAIN-SUFFIX,affmates.com
 DOMAIN-SUFFIX,afftrack.com
@@ -113012,7 +113015,7 @@ DOMAIN-SUFFIX,trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
 ################## EOF ##################
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2025-01-17T17:24:18.089Z
+# Last Updated: 2025-01-17T18:47:54.268Z
 # Size: 173
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -113021,6 +113024,8 @@ DOMAIN-SUFFIX,trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev
 # The ruleset supports AD blocking,tracking protection,privacy protection,anti-phishing,anti-mining
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,histats.com
 DOMAIN-SUFFIX,minexmr.com
 DOMAIN-SUFFIX,notify6.com
@@ -113159,8 +113164,6 @@ DOMAIN-KEYWORD,-tracker.biliapi.net
 #DOMAIN-WILDCARD,*ad.ixigua.com
 #DOMAIN-WILDCARD,tracking.*.miui.com
 #DOMAIN-WILDCARD,*.tracking.*.miui.com
-.juejin.im
-.juejin.cn
 #URL-REGEX,/\d+/resolve
 #URL-REGEX,/\d+/sign_d
 IP-CIDR,39.97.128.148/32,no-resolve
