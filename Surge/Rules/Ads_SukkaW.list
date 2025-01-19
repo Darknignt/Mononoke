@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-01-19T04:50:00.573Z
-# Size: 104037
+# Last Updated: 2025-01-19T13:28:55.689Z
+# Size: 104040
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9441,7 +9441,6 @@ DOMAIN-SUFFIX,adlmerge.com
 DOMAIN-SUFFIX,adloaded.com
 DOMAIN-SUFFIX,adltserv.com
 DOMAIN-SUFFIX,admarvel.com
-DOMAIN-SUFFIX,admaxium.com
 DOMAIN-SUFFIX,adme-net.com
 DOMAIN-SUFFIX,admeking.com
 DOMAIN-SUFFIX,adobetag.com
@@ -10172,6 +10171,7 @@ DOMAIN-SUFFIX,gammamkt.com
 DOMAIN-SUFFIX,gammassp.com
 DOMAIN-SUFFIX,gardoult.com
 DOMAIN-SUFFIX,gaujokop.com
+DOMAIN-SUFFIX,gauqoith.com
 DOMAIN-SUFFIX,gbengene.com
 DOMAIN-SUFFIX,geckibou.com
 DOMAIN-SUFFIX,geejetag.com
@@ -19318,7 +19318,6 @@ DOMAIN-SUFFIX,smartadtags.com
 DOMAIN-SUFFIX,smartlphost.com
 DOMAIN-SUFFIX,smashnewtab.com
 DOMAIN-SUFFIX,smilewanted.com
-DOMAIN-SUFFIX,smoggysongs.com
 DOMAIN-SUFFIX,smokedcards.com
 DOMAIN-SUFFIX,snack-media.com
 DOMAIN-SUFFIX,snaglighter.com
@@ -23650,7 +23649,6 @@ DOMAIN-SUFFIX,reestedsunnud.com
 DOMAIN-SUFFIX,reevokeiciest.com
 DOMAIN-SUFFIX,refractionius.com
 DOMAIN-SUFFIX,regioncolonel.com
-DOMAIN-SUFFIX,regularplants.com
 DOMAIN-SUFFIX,rejoinedproof.com
 DOMAIN-SUFFIX,rejoinedshake.com
 DOMAIN-SUFFIX,relievedgeoff.com
@@ -24627,7 +24625,6 @@ DOMAIN-SUFFIX,deafeningphone.com
 DOMAIN-SUFFIX,debitcrebit669.com
 DOMAIN-SUFFIX,decadedisplace.com
 DOMAIN-SUFFIX,decidedlychips.com
-DOMAIN-SUFFIX,decisivedrawer.com
 DOMAIN-SUFFIX,dedicatedmedia.com
 DOMAIN-SUFFIX,dedicationfits.com
 DOMAIN-SUFFIX,deewansturacin.com
@@ -28613,6 +28610,7 @@ DOMAIN-SUFFIX,massacresurrogate.com
 DOMAIN-SUFFIX,mastinstungmoreal.com
 DOMAIN-SUFFIX,masturbaseinvegas.com
 DOMAIN-SUFFIX,matchingundertake.com
+DOMAIN-SUFFIX,materialisticmoon.com
 DOMAIN-SUFFIX,maypacklighthouse.com
 DOMAIN-SUFFIX,mealplanningideas.com
 DOMAIN-SUFFIX,mechanicalcardiac.com
@@ -33844,6 +33842,7 @@ DOMAIN-SUFFIX,8u0.fun
 DOMAIN-SUFFIX,bc4.fun
 DOMAIN-SUFFIX,e7h.fun
 DOMAIN-SUFFIX,ed2.fun
+DOMAIN-SUFFIX,h6o.fun
 DOMAIN-SUFFIX,hp7.fun
 DOMAIN-SUFFIX,ok5.fun
 DOMAIN-SUFFIX,s83.fun
@@ -49914,6 +49913,7 @@ DOMAIN-SUFFIX,data-f1e447fbcf.wa.de
 DOMAIN-SUFFIX,data-f59db3288b.wa.de
 DOMAIN-SUFFIX,data-16d7ec9a30.wn.de
 DOMAIN-SUFFIX,data-3d8a7e5aec.wn.de
+DOMAIN-SUFFIX,r.wz.de
 DOMAIN-SUFFIX,data-9e4ff1c91f.wz.de
 DOMAIN-SUFFIX,data-ea7d084cda.wz.de
 DOMAIN-SUFFIX,ad.71i.de
@@ -62761,6 +62761,7 @@ DOMAIN-SUFFIX,w88.go.com
 DOMAIN-SUFFIX,clog.go.com
 DOMAIN-SUFFIX,sw88.go.com
 DOMAIN-SUFFIX,unid.go.com
+DOMAIN-SUFFIX,tredir.go.com
 DOMAIN-SUFFIX,analytics.go.com
 DOMAIN-SUFFIX,sstats2.gq.com
 DOMAIN-SUFFIX,metrics.ha.com
@@ -68169,6 +68170,7 @@ DOMAIN-SUFFIX,xmlv6.aimkweb.com
 DOMAIN-SUFFIX,log.aimtell.com
 DOMAIN-SUFFIX,beacon.aimtell.com
 DOMAIN-SUFFIX,analytics.aimtell.com
+DOMAIN-SUFFIX,t.airasia.com
 DOMAIN-SUFFIX,metrics.airasia.com
 DOMAIN-SUFFIX,smetrics.airasia.com
 DOMAIN-SUFFIX,trk.airborn.com
@@ -82971,6 +82973,7 @@ DOMAIN-SUFFIX,mdws.caissepopclare.com
 DOMAIN-SUFFIX,marketing.callmeonmycell.com
 DOMAIN-SUFFIX,marketing.campbellwealth.com
 DOMAIN-SUFFIX,ea.camping-and-co.com
+DOMAIN-SUFFIX,creative.camsplanetlive.com
 DOMAIN-SUFFIX,cueohf.canadian-forum.com
 DOMAIN-SUFFIX,d485.capitalgazette.com
 DOMAIN-SUFFIX,activate.capitalgazette.com
@@ -86276,7 +86279,6 @@ DOMAIN-SUFFIX,smetrics.sherwoodmotorcars.com
 DOMAIN-SUFFIX,a8clk.shinnihon-seminar.com
 DOMAIN-SUFFIX,track.silverlinewindows.com
 DOMAIN-SUFFIX,go.siteapostasbrasil.com
-DOMAIN-SUFFIX,secure.smart-company-365.com
 DOMAIN-SUFFIX,path.smartamericantips.com
 DOMAIN-SUFFIX,metrics.smartauctionlogin.com
 DOMAIN-SUFFIX,smetrics.smartauctionlogin.com
@@ -95513,6 +95515,7 @@ DOMAIN-SUFFIX,engage.3megypt.com.eg
 DOMAIN-SUFFIX,mud4.destinia.com.eg
 DOMAIN-SUFFIX,metric.vodafone.com.eg
 DOMAIN-SUFFIX,metrics.vodafone.com.eg
+DOMAIN-SUFFIX,spt.ahram.org.eg
 DOMAIN-SUFFIX,engage.3m.com.es
 DOMAIN-SUFFIX,digital.adt.com.es
 DOMAIN-SUFFIX,track.docusign.com.es
