@@ -217,10 +217,7 @@ DOMAIN-SUFFIX,nanflix.net
 ##### O #####
 
 # Odyssey+
-DOMAIN-SUFFIX,cf.odysseyplus.site
-DOMAIN-SUFFIX,agahk.odysseyplus.site
-DOMAIN-SUFFIX,agasg.odysseyplus.site
-DOMAIN-SUFFIX,ru.odysseyplus.site
+DOMAIN-SUFFIX,odysseyplus.site
 
 # Otaku
 DOMAIN-SUFFIX,emby.ok.edu.hk
